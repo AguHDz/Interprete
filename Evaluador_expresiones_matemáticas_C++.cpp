@@ -1,7 +1,7 @@
 /*
 Codigo creado por Christian Gómez Serapio
 Facultad Nacional de Ingeniería. Oruro - Bolivia
-www.estructurasydatos.blogspot.com
+http://estructurasydatos.blogspot.com.es/2009/09/evaluador-de-expresiones-matematicas-en.html
 */
 #include <iostream>
 #include <cstdlib>
