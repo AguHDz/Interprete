@@ -7,7 +7,7 @@
 // http://www.juntadeandalucia.es/averroes/~41009822/inf/dfsi/Iniciacion%20a%20ncurses.pdf
 // http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO
 
-// Development Kit (a library of widgets):
+// Development Kit (Library of Widgets):
 //   * cdk: Curses Development Kit (a library of widgets)
 //       http://invisible-island.net/cdk/cdk.html
 //   * dialog Script-driven curses widgets
