@@ -4,13 +4,13 @@
 // http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/helloworld.html
 
 // Más información sobre el uso y utilidad de la libreria ncurses.h en:
-// http://www.juntadeandalucia.es/averroes/~41009822/inf/dfsi/Iniciacion%20a%20ncurses.pdf
-// http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO
+//   * http://www.juntadeandalucia.es/averroes/~41009822/inf/dfsi/Iniciacion%20a%20ncurses.pdf
+//   * http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO
 
 // Development Kit (Library of Widgets):
-//   * cdk: Curses Development Kit (a library of widgets)
+//   * CKD: Curses Development Kit (a library of widgets)
 //       http://invisible-island.net/cdk/cdk.html
-//   * dialog Script-driven curses widgets
+//   * Dialog: Script-driven curses widgets
 //       http://invisible-island.net/dialog/dialog.html
 
 
