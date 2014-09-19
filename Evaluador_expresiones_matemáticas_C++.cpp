@@ -101,6 +101,7 @@ double evaluar(string p) {
 }
 int main() {
  string s, p;
+ cout << "Introduzca expresion matematica: ";
  cin >> s;
  p = convertir(s);
  cout << "Posfija: " << p << endl;
