@@ -1,5 +1,8 @@
 #include <ncurses.h>
 
+// Libreria estandar de C++ que reemplaza a la antigua conio.h
+// http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/helloworld.html
+
 int main()
 {	
 	initscr();			/* Start curses mode 		  */
