@@ -13,6 +13,9 @@
 //   * Dialog: Script-driven curses widgets
 //       http://invisible-island.net/dialog/dialog.html
 
+// INSTALAR LIBRERIA NCURSES EN CODEBLOCKS
+//   * https://lists.ubuntu.com/archives/ubuntu-co/2010-November/023766.html
+//   * https://www.youtube.com/watch?v=mYnfix8ruAo
 
 int main()
 {	
